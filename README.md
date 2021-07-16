@@ -4,7 +4,7 @@
 The main idea of this project is to make restaurant management system simple and efficient
 
 
-
+create a virtual environment install all requirements using pip install -r requirements.txt
 
 
 
